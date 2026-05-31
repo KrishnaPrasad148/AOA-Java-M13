@@ -108,6 +108,7 @@ public class SudokuSolver {
 
 ## Output:
 
+<img width="678" height="612" alt="outpu4" src="https://github.com/user-attachments/assets/839a56fc-24c8-4bf0-a306-63618f1fe473" />
 
 
 ## Result:
