@@ -68,6 +68,7 @@ public class Solution
 
 ## Output:
 
+<img width="417" height="240" alt="output3" src="https://github.com/user-attachments/assets/e0654107-d462-4883-95e8-43216c314ca4" />
 
 
 ## Result:
