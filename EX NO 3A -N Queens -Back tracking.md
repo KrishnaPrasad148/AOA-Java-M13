@@ -106,6 +106,7 @@ public class NQueens {
 
 ## Output:
 
+<img width="661" height="270" alt="output1" src="https://github.com/user-attachments/assets/e3fe6c23-26f7-45f1-a9d2-344bf8dd324f" />
 
 
 ## Result:
