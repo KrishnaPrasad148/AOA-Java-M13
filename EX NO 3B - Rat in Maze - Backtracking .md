@@ -115,6 +115,7 @@ class Solution {
 
 ## Output:
 
+<img width="368" height="539" alt="output2" src="https://github.com/user-attachments/assets/62bc3cf1-cab4-43ec-bf49-f3a9fc64b68f" />
 
 
 ## Result:
